@@ -81,9 +81,6 @@ class ConcertTrackerApp:
 
 
 
-    def start_concert(self, concert_place: str, band_name: str):
-        band = self.find_band_by_name(band_name)
-
 
 
 
